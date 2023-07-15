@@ -1,4 +1,4 @@
-# Alert-System-
+# Alert-System
 Suicide occurs more often in older than in younger people but is still one of 
 the leading causes of death in late childhood and adolescence worldwide. This 
 not only results in a direct loss of many young lives, but also has disruptive 
